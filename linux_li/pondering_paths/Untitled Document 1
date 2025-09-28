@@ -1,0 +1,13 @@
+challenge 2 program and absolute paths 
+in this challenge the flag is in run directory which is in challenge directory and all of this is in ```/``` root for flag we will to follow the absolute path.
+###solution:
+in the terminal when the user will follow the absolute path that is ```/challenge/run```,it will print the flag
+###commands run:
+```sh
+hacker@paths~program-and-absolute-paths:~$ /challenge/run
+Correct!!!
+```
+##flag:
+```
+pwn.college{YSl9tivTZrN19mW2XQ9eEo--Rq1.QX1QTN0wyMzAzNzEzW}
+```
